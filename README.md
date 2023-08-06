@@ -15,7 +15,7 @@ effectiveness, resulting in the loss of valuable customers to competitors. The i
 The dataset contains more "No" values under the churn column than "Yes" which implies an imbalance in the dataset, which could lead to a biased model performance.
 <h3>Tools Used</h3>
 Jupyter Notebook and multiple Python libraries.
-<h3>Task i Performed</h3>
+<h3>Task Performed</h3>
 EDA (Univariate, Bivariate, Multivariate Analysis)
 
 Data Preprocessing (Feature engineering, Encoding, Scaling)
