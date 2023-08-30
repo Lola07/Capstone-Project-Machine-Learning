@@ -1,4 +1,4 @@
-# 10Alytics-Capstone-Project-Machine-Learning
+# Customer Churn Project-Machine-Learning
 <h1>A MACHINE LEARNING MODEL TO PREDICT CUSTOMER CHURN</h1>
 
 
