@@ -1,9 +1,9 @@
 # Customer Churn Project-Machine-Learning
+
+![2023-11-12_19h21_14](https://github.com/lola07/Capstone-Project-Machine-Learning/assets/26351775/b038c1cd-16b2-4317-801e-d7739e519166)
+
+
 <h1>A MACHINE LEARNING MODEL TO PREDICT CUSTOMER CHURN</h1>
-
-![2023-11-12_19h21_14](https://github.com/lola07/Capstone-Project-Machine-Learning/assets/26351775/47f1f850-ad05-4454-9b9b-ade4e17d74ca)
-
-
 
 Over time, the customer churn rate has posed a significant threat to ConnectTel's  business stability, and growth, The company's current customer retention strategies lack precision and
 effectiveness, resulting in the loss of valuable customers to competitors. The identification of the causes of customer churn  relies heavily on statistical and machine-learning approaches, which I have been tasked to carry out.
