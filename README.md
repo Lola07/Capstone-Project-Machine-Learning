@@ -1,5 +1,6 @@
 # Customer Churn Project-Machine-Learning
 <h1>A MACHINE LEARNING MODEL TO PREDICT CUSTOMER CHURN</h1>
+
 ![2023-11-12_19h21_14](https://github.com/lola07/Capstone-Project-Machine-Learning/assets/26351775/47f1f850-ad05-4454-9b9b-ade4e17d74ca)
 
 
